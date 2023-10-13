@@ -15,7 +15,7 @@ public class Main {
 		
 		Product product2 = new Product();
 		product2.setName("Semek Ütü");
-		product2.setDiscount(3);
+		product2.setDiscount(6);
 		product2.setUnitPrice(1500);
 		product2.setUnitsInStock(5);
 		product2.setImageUrl("image2.jpg");
