@@ -1,6 +1,6 @@
 package oop1;
 
-import java.util.Iterator;
+
 
 public class Main {
 
@@ -45,7 +45,7 @@ public class Main {
 		corporateCustomer.setCompanyName("Kodlama.io");
 		corporateCustomer.setPhone("05553332221");
 		corporateCustomer.setTaxNumber("111111");
-		corporateCustomer.setCustomerNumber("4");
+		corporateCustomer.setCustomerNumber("5");
 	}
 
 }
